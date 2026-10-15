@@ -1,5 +1,4 @@
-🌙 GyroRest Sleep Detector
-A tiny web app that nags you when you put your phone down and forget about it.
+🌙 GyroRest is tiny web app that nags you when you put your phone down and forget about it.
 
 👉 Try it live: https://gyrorest.netlify.app/
 
