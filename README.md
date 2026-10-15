@@ -3,7 +3,8 @@
 👉 Try it live: https://gyrorest.netlify.app/
 
 📱 What does it do?
-https://github.com/user-attachments/assets/38fb4a74-7a21-4050-a2e5-cbfeef80da6d
+<img width="240" height="400" alt="1015(1)" src="https://github.com/user-attachments/assets/c3ca1915-eb10-42ec-a6ff-d8333dec8f4a" />
+
 
 Plays sound after 10 seconds of no movement based on gyro sensors of the phone:
 
