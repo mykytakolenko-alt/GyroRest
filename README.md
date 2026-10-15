@@ -1,16 +1,11 @@
-🌙 GyroRest is tiny web app that nags you when you put your phone down and forget about it.
+🌙 GyroRest is the Orientation Sensoreriodic Based Inactivity Alerts for Iphone/Android phones.
+
+📱 What does it do?
+Plays sound after 10 seconds of no movement based on gyro sensors of the phone:
 
 👉 Try it live: https://gyrorest.netlify.app/
 
-📱 What does it do?
 
-
-
-<img width="240" height="400" alt="1015(1)" src="https://github.com/user-attachments/assets/c3ca1915-eb10-42ec-a6ff-d8333dec8f4a" />
-
-
-
-Plays sound after 10 seconds of no movement based on gyro sensors of the phone:
 
 🎵 Plays a sound
 📳 Vibrates
@@ -22,3 +17,7 @@ The moment you touch the phone — everything resets.
 🚀Host it for free with on Netify Drop in 1 minute!
 👉Get your hhtps link and share it with everyone. https://app.netlify.com/drop
 
+
+
+<img width="1179" height="1915" alt="image" src="https://github.com/user-attachments/assets/f5c3bad4-0b82-48e4-8147-200cda82ba97" />
+<img width="1179" height="1921" alt="image" src="https://github.com/user-attachments/assets/5e5b1cc6-9a10-40ef-b824-1d87b5172a89" />
