@@ -18,6 +18,4 @@ The moment you touch the phone — everything resets.
 👉Get your hhtps link and share it with everyone. https://app.netlify.com/drop
 
 
-
-<img width="1179" height="1915" alt="image" src="https://github.com/user-attachments/assets/f5c3bad4-0b82-48e4-8147-200cda82ba97" />
-<img width="1179" height="1921" alt="image" src="https://github.com/user-attachments/assets/5e5b1cc6-9a10-40ef-b824-1d87b5172a89" />
+<img width="747" height="600" alt="image" src="https://github.com/user-attachments/assets/36f2fb31-216c-4c70-83ba-691f4413e1e7" />
