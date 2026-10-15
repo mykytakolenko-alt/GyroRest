@@ -3,6 +3,8 @@
 👉 Try it live: https://gyrorest.netlify.app/
 
 📱 What does it do?
+https://github.com/user-attachments/assets/38fb4a74-7a21-4050-a2e5-cbfeef80da6d
+
 Plays sound after 10 seconds of no movement based on gyro sensors of the phone:
 
 🎵 Plays a sound
@@ -14,4 +16,4 @@ The moment you touch the phone — everything resets.
 ⚙️ How to change the timer (takes 10 seconds)
 🚀Host it for free with on Netify Drop in 1 minute!
 👉Get your hhtps link and share it with everyone. https://app.netlify.com/drop
-<img width="791" height="1297" alt="image" src="https://github.com/user-attachments/assets/b8c10f6b-68bd-47c4-bdb5-414c5a43f9ec" />
+
