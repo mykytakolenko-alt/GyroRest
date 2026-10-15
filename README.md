@@ -8,9 +8,13 @@ Try it live: https://gyrorest.netlify.app/
 
 
 🎵 Plays a sound
+
 📳 Vibrates
+
 🔔 Sends a notification: "Hi, That's been long time you did use our app!)"
+
 If you still don't pick it up, it nags you again at 80s, 160s, and 240s.
+
 The moment you touch the phone — everything resets.
 
  Host it for free with on Netify Drop in 1 minute!
