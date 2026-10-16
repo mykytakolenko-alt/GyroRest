@@ -1,5 +1,7 @@
 GyroRest is the orientation based Inactivity Alerts for Iphone/Android phones.
+
 What does it do?
+
 Plays sound after 10 seconds of no movement based on gyro sensors of the phone.
 
 Have you ever put your phone down and immediately received a push notification?
