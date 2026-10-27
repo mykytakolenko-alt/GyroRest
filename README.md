@@ -19,7 +19,7 @@ The moment you touch the phone - everything resets.
 Try it live: https://gyrorest.netlify.app/
 
 ## How to implement this feature into your project: 
-'''HTML
+  ```HTML
 <script>
         /*
          * INTEGRATION GUIDE:
