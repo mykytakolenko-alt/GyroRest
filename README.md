@@ -2,7 +2,9 @@ GyroRest is the orientation based Inactivity Alerts for Iphone/Android phones.
 
 Have you ever put your phone down and immediately received a push notification? Easily implement similar feature into your application by copying this entire <script> block into your project.
 
-Try it live: https://gyrorest.netlify.app/
+<img width="1531" height="732" alt="image" src="https://github.com/user-attachments/assets/ba34eeef-fe71-451d-95fc-efb7bf6e9fe3" />
+
+
 
 What does it do?
 
@@ -12,5 +14,4 @@ What does it do?
 
 The moment you touch the phone - everything resets.
 
-
-<img width="747" height="600" alt="image" src="https://github.com/user-attachments/assets/36f2fb31-216c-4c70-83ba-691f4413e1e7" />
+Try it live: https://gyrorest.netlify.app/
