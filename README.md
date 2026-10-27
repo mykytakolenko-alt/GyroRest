@@ -2,7 +2,7 @@ GyroRest is the orientation based Inactivity Alerts for Iphone/Android phones.
 
 Have you ever put your phone down and immediately received a push notification? Easily implement similar feature into your application by copying this entire <script> block into your project.
 
-<img width="1531" height="732" alt="image" src="https://github.com/user-attachments/assets/ba34eeef-fe71-451d-95fc-efb7bf6e9fe3" />
+<img width="972" height="732" alt="image" src="https://github.com/user-attachments/assets/c0ca8407-5529-4653-8fce-9c3c9689be2e" />
 
 
 
